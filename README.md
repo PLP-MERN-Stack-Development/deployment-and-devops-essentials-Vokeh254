@@ -1,3 +1,15 @@
+# Assignment Done Using the Week5 Chat repo.
+I did this assignment using the week 5 Chat repository that I forked from https://github.com/PLP-MERN-Stack-Development/Week5-Chat.
+I was able to deploy the Chat Application on Render for Backend and on Vercel for Frontend. 
+
+1. Deployment on Vercel
+<img width="1912" height="1080" alt="image" src="https://github.com/user-attachments/assets/4121d6a8-9384-4b6e-9e45-7daa18c369dd" />
+
+2. Deployment on Render
+<img width="1914" height="1074" alt="image" src="https://github.com/user-attachments/assets/752b0f4b-4a97-4134-beef-335acb460080" />
+
+
+
 # Deployment and DevOps for MERN Applications
 
 This assignment focuses on deploying a full MERN stack application to production, implementing CI/CD pipelines, and setting up monitoring for your application.
